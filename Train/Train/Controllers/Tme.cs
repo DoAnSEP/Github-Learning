@@ -5,7 +5,7 @@ namespace Train.Controllers
     {
         public Tme()
         {
-            Console.WriteLine("hello Cap");
+            Console.WriteLine("helo Cap");
         }
     }
 }
